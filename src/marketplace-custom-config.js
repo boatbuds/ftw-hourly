@@ -107,12 +107,12 @@ export const filters = [
       // Note: label is not added through the translation files
       // to make filter customizations a bit easier.
       options: [
-        { key: 'ashtanga', label: 'Ashtanga' },
-        { key: 'hatha', label: 'Hatha' },
-        { key: 'kundalini', label: 'Kundalini' },
-        { key: 'restorative', label: 'Restorative' },
-        { key: 'vinyasa', label: 'Vinyasa' },
-        { key: 'yin', label: 'Yin' },
+        { key: 'speedboat', label: 'Speed boat' },
+        { key: 'fishingboat', label: 'Fishing Boat' },
+        { key: 'cruisingboat', label: 'Cruising Boat' },
+        { key: 'bassboat', label: 'Bass Boat' },
+        { key: 'bayboat', label: 'Bay Boat' },
+        { key: 'bowriderboat', label: 'Bowrider Boat' },
       ],
     },
   },
@@ -129,8 +129,8 @@ export const filters = [
       // to make filter customizations a bit easier.
       options: [
         { key: 'none', label: 'None', hideFromFilters: true, hideFromListingInfo: true },
-        { key: '200h', label: 'Registered yoga teacher 200h' },
-        { key: '500h', label: 'Registered yoga teacher 500h' },
+        { key: '200h', label: 'Licensed boat captain type 1' },
+        { key: '500h', label: 'Licensed boat captain type 2' },
       ],
     },
   },
