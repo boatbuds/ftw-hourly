@@ -9,6 +9,7 @@
   "ActivityFeed.ownTransitionRequest": "You requested to book { listingTitle }.",
   "ActivityFeed.ownTransitionReview": "You left a review for { displayName }.",
   "ActivityFeed.showOlderMessages": "Show older",
+  "ActivityFeed.operatorDecline": "The booking was cancelled.",
   "ActivityFeed.today": "Today",
   "ActivityFeed.transitionAccept": "{ displayName } accepted the booking request.",
   "ActivityFeed.transitionCancel": "The booking was cancelled.",
