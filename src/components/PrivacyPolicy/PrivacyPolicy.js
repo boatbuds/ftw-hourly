@@ -12,50 +12,111 @@ const PrivacyPolicy = props => {
   return (
     <div className={classes}>
       <p className={css.lastUpdated}>Last updated: November 22, 2019</p>
-
       <p>
-        Thank you for using Yogatime! Ut enim ad minim veniam, quis nostrud exercitation ullamco
-        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      </p>
+      boatbuds (the “Company”) is committed to maintaining privacy protections for its users.  Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and safeguard the information you provide to us and to assist you in making informed decisions when using our Service.  
 
-      <h2>1 Lorem ipsum dolor sit amet</h2>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      </p>
+For purposes of this Agreement, “Service” refers to the Company’s service which can be accessed via our website at www.boatbuds.com. The Service allows a user (anyone who uses the website such as, but not limited to individuals, businesses, professionals, third parties, vendors, etc.) to post/list their outdoor gear/equipment/item(s)/services for rent, hire or sale. In turn, allows buyers to search for and purchase outdoor gear/equipment/item(s)/services for rent, hire or sale.
 
-      <h2>2 Sed ut perspiciatis unde</h2>
-      <p>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-        laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-        aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-        voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
-        consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et
-        dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
-        exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
-        consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil
-        molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-      </p>
+The terms “we,” “us,” and “our” refer to the Company. “You” refers to you, as a user of Service. By accepting our Privacy Policy and Terms of Use, you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
-      <h2>3 At vero eos et accusamus</h2>
-      <p>
-        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
-        voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
-        cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id
-        est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam
-        libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod
-        maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
-        Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut
-        et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a
-        sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis
-        doloribus asperiores repellat
+<br />
+I.               INFORMATION WE COLLECT
+
+We collect “Non-Personal Information” and “Personal Information.”  Non-Personal Information includes information that cannot be used to personally identify you, such as anonymous usage data, general demographic information we may collect, referring/exit pages and URLs, platform types, preferences you submit and preferences that are generated based on the data you submit and number of clicks.  Personal Information includes your first name, last name, email, username and password which you submit to us through the registration process at the Site.
+<br />
+1.  Information collected via Technology
+
+To activate the Service you do not need to submit any Personal Information other than your first name, last name, email, username and password.  To use the Service thereafter, you do not need to submit further Personal Information.  However, in an effort to improve the quality of the Service, we track information provided to us by your browser or by our software application when you view or use the Service, such as the website you came from (known as the “referring URL”), the type of browser you use, the device from which you connected to the Service, the time and date of access, and other information that does not personally identify you.  We track this information using cookies, or small text files which include an anonymous unique identifier.  Cookies are sent to a user’s browser from our servers and are stored on the user’s computer hard drive.  Sending a cookie to a user’s browser enables us to collect Non-Personal information about that user and keep a record of the user’s preferences when utilizing our services, both on an individual and aggregate basis.  
+
+The Company may use both persistent and session cookies; persistent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser.  
+<br />
+1.  Information you provide us by registering for an account
+
+In addition to the information provided automatically by your browser when you visit the Site, to become a subscriber to the Service you will need to create a personal profile.  You can create a profile by registering with the Service and entering your first name, last name, email address, and creating a user name and a password.  By registering, you are authorizing us to collect, store and use your email address in accordance with this Privacy Policy.
+<br />
+II.             HOW WE USE AND SHARE INFORMATION
+<br />
+Personal Information:
+<br />
+Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent or otherwise share for marketing purposes your Personal Information with third parties without your consent. We do share Personal Information with vendors who are performing services for the Company, such as the servers for our email communications who are provided access to user’s email address for purposes of sending emails from us.  Those vendors use your Personal Information only at our direction and in accordance with our Privacy Policy.
+
+In general, the Personal Information you provide to us is used to help us communicate with you.  For example, we use Personal Information to contact users in response to questions, solicit feedback from users, provide technical support, and inform users about promotional offers.
+
+ 
+<br />
+Non-Personal Information
+<br />
+In general, we use Non-Personal Information to help us improve the Service and customize the user experience.  We also aggregate Non-Personal Information in order to track trends and analyze use patterns on the Site.  This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our discretion.
+
+In the event we undergo a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets, your Personal Information may be among the assets transferred.  You acknowledge and consent that such transfers may occur and are permitted by this Privacy Policy, and that any acquirer of our assets may continue to process your Personal Information as set forth in this Privacy Policy.  If our information practices change at any time in the future, we will post the policy changes to the Site so that you may opt out of the new information practices.  We suggest that you check the Site periodically if you are concerned about how your information is used.
+<br />
+III.           HOW WE PROTECT INFORMATION
+
+We implement security measures designed to protect your information from unauthorized access.  Your account is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and by logging out of your account after each use.  We further protect your information from potential security breaches by implementing certain technological security measures including encryption, firewalls and secure socket layer technology.  However, these measures do not guarantee that your information will not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.  By using our Service, you acknowledge that you understand and agree to assume these risks.
+<br />
+IV.           YOUR RIGHTS REGARDING THE USE OF YOUR PERSONAL INFORMATION
+
+You have the right at any time to prevent us from contacting you for marketing purposes.  When we send a promotional communication to a user, the user can opt out of further promotional communications by following the unsubscribe instructions provided in each promotional e-mail.  You can also indicate that you do not wish to receive marketing communications from us in the “Settings” section of the Site.  Please note that notwithstanding the promotional preferences you indicate by either unsubscribing or opting out in the Settings section of the Site, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.
+<br />
+V.             LINKS TO OTHER WEBSITES
+
+As part of the Service, we may provide links to or compatibility with other websites or applications.  However, we are not responsible for the privacy practices employed by those websites or the information or content they contain.  This Privacy Policy applies solely to information collected by us through the Site and the Service.  Therefore, this Privacy Policy does not apply to your use of a third party website accessed by selecting a link on our Site or via our Service.  To the extent that you access or use the Service through or on another website or application, then the privacy policy of that other website or application will apply to your access or use of that site or application.  We encourage our users to read the privacy statements of other websites before proceeding to use them.
+<br />
+VI.           CHANGES TO OUR PRIVACY POLICY
+
+The Company reserves the right to change this policy and our Terms of Service at any time.  We will notify you of significant changes to our Privacy Policy by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site.  Significant changes will go into effect 30 days following such notification.  Non-material changes or clarifications will take effect immediately. You should periodically check the Site and this privacy page for updates.
+<br />
+VII.         CONTACT US
+<br />
+If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us by sending an email to support@boatbuds.com
+
+
+
+<br />
+
+Name of the register
+User register of the boatbuds service
+<br />
+
+Use of personal details (purpose of register)
+Personal details are collected to make communication and use of service possible. Details can be used for communication between service providers and users and also for direct communication between users. Some personal details are visible on the profile page of the user, but those details are voluntary (except name).
+<br />
+
+The handling of personal details is not outsourced, but the register data is stored on a server that is rented from a third party company.
+<br />
+
+Information content of the register
+The following information may be stored in the register:
+<br />
+
+Personal details: Name, email address, phone number, street address
+Account details: username, password (stored in encrypted format)
+The description text that the user may write about him/herself
+The offers and requests the user has posted to the service
+The given and received feedback and badges
+Statistical data about service usage, e.g. number times the user has logged in
+Regular sources of information
+Personal details are given by the user on registration to the service or when using it later.
+<br />
+
+Regular handovers of the information
+<br />
+
+The information may be handed over for research purposes as described in the Terms of use that the user accepts before starting to use the service. The researchers may not publish any research results so that identifying information would be revealed or that any specific user could be detected.
+<br />
+
+Information considering users of a single boatbuds community may be handed over to the client who has founded that community or to the community administrators appointed by that client.
+<br />
+
+Transfers of the information outside the EU and the European Economic Area
+Information may be stored to a server that may be located inside or outside of the EU and the European Economic Area
+
+Register protection principles
+<br />
+
+The information is stored on computers. The access to the information is restricted with passwords and physical access to the computers is restricted by the server hosting company.
       </p>
+ 
     </div>
   );
 };
